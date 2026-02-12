@@ -29,7 +29,7 @@ order: 1
 
 ### 只因云
 
-- 机场地址：[点我跳转](https://www1.spkun.com) [点我跳转2](https://tar.korepi.com)
+- 机场地址：[点我跳转](https://spkun.cc) [点我跳转2](https://spkun.org)
 - 流量不限时间 随用随停 轻量用户备用首选
 - 全平台支持
 - Android iOS windows mac linux
